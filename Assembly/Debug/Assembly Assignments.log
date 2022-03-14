@@ -1,0 +1,3 @@
+﻿  Assembling 2DArrays.asm...
+2DArrays.asm(195): warning A6004: procedure argument or local not referenced : lengthRow
+  Assembly Assignments.vcxproj -> C:\Users\jorge\source\repos\Assembly Assignments\Debug\Assembly Assignments.exe
