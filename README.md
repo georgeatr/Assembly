@@ -1,5 +1,6 @@
 # Assembly
-Assembly Programs
+MASM Problems
 
-Programs made to solve problems given by the instructor using MASM x86.
-The description for each of the assembly programs are written at the header of each of the files.
+Programs made to solve problems given by the instructor using MASM x86 assembler.
+
+The description for each of the assembly programs is written in the header of the files.
